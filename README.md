@@ -18,7 +18,7 @@ Bu repo, **SASS** (Syntactically Awesome Style Sheets) ve **SCSS** (Sassy CSS) i
 - [SCSS ve SASS Farkı](#scss-ve-sass-farkı)
 - [Watch ve Compile](#watch-ve-compile)
 - [Kaynaklar](#kaynaklar)
--   
+
 ## Gereksinimler
 - **Node.js** ve **npm**'in bilgisayarınıza kurulu olması gerekmektedir.
 - **SASS**'i çalıştırabilmek için global olarak `sass` paketini yüklemeniz gerekmektedir.
